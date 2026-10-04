@@ -1,1 +1,1 @@
-# ospf1
+This project is a Cisco Packet Tracer network topology that uses OSPF (Open Shortest Path First) to enable dynamic routing and communication between multiple routers and connected LANs. It allows routers to automatically learn network routes and exchange data across different subnets efficiently.
